@@ -34,12 +34,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezamo10&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=rezamo10&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezamo10&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamo10&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=rezamo10&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
 </p>
 
 ---
